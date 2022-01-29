@@ -1,0 +1,39 @@
+{
+	"id": "7b5725a8-7753-4b00-b35a-7d49f2190b3e",
+	"name": "QA Environment",
+	"values": [
+		{
+			"key": "Authentication",
+			"value": "efed27501fdf3db6539da696c998a97aaba8145f6952b557175d3965beb6bccd",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "baseUrl",
+			"value": "https://gorest.co.in",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "randomFullName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "randomEmail",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "uniqueId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2022-01-29T15:41:14.047Z",
+	"_postman_exported_using": "Postman/9.8.3"
+}
